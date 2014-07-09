@@ -1,4 +1,6 @@
-coursera-pml-project
-====================
+Coursera Practical Machine Learning Project
+===========================================
 
-Repository for the Coursera Practical Machine Learning course
+This is my repository for the Coursera PML project.
+
+Be welcome!
